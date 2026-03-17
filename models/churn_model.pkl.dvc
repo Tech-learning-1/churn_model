@@ -1,0 +1,5 @@
+outs:
+- md5: 0ce7c5be410ef1a7bba19335bf292e2d
+  size: 183545
+  hash: md5
+  path: churn_model.pkl

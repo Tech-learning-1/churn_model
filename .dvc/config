@@ -1,0 +1,6 @@
+[core]
+    remote = churn-models
+['remote "churn"']
+    url = s3://churnmodelfordvc/data
+['remote "churn-models"']
+    url = s3://churnmodelfordvc/models
